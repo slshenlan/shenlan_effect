@@ -1,0 +1,1 @@
+import{_ as o}from"./index-c333b85b.js";import{o as t,i as s,j as _,k as c,g as d}from"./vendor-79070444.js";const a={},n=e=>(_("data-v-e0711437"),e=e(),c(),e),i={class:"sl-layout-content"},r=n(()=>d("div",{id:"three-dom"},null,-1)),p=[r];function l(e,u){return t(),s("div",i,p)}const m=o(a,[["render",l],["__scopeId","data-v-e0711437"]]);export{m as default};
